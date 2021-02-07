@@ -4,7 +4,6 @@
     padding: 0;
 }
 
-
 header
 {
     background-image:  url(Macbook_background.jpg);
@@ -37,14 +36,12 @@ header
 .main-nav li.active a
 {
     border: 1px solid white;
-
 }
 
 .main-nav li a:hover
 {
     border: 1px solid white;
 }
-
 
 .logo img
 {
@@ -79,17 +76,13 @@ h1
     font-size: 70px;
     text-align: center;
     margin-top: 225px;
-    
 }
 
 .button
 {
     margin-top: 10px;
     margin-left: 400px;
-
-
 }
-
 
 .btn
 {
